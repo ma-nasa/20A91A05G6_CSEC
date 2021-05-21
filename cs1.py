@@ -9,3 +9,9 @@ elif c<a and c<b:
     print("c is minimum")
 else:
     print("All are equal")
+
+output
+Enter a number:10
+Enter a number:20
+Enter a number:30
+A is minimum
