@@ -8,3 +8,7 @@ else:
         print("Weird")
     elif(n>20):
         print("Not Weird")
+
+        output
+        3
+        Weird
