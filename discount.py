@@ -22,3 +22,11 @@ else:
     
 print("Discount:",dis)
 print("Bill amount:",finalamt)
+output:
+Enter the amount purchased:800
+No discount
+Discount: 0
+Bill amount: 800
+Enter the amount purchased:3000
+Discount: 300.0
+Bill amount: 2700.0
