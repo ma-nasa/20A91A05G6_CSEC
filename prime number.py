@@ -23,3 +23,6 @@ if flag:
     print(num, "is not a prime number")
 else:
     print(num, "is a prime number")
+    
+    output:
+   29 is a prime number 
